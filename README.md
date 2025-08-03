@@ -21,13 +21,13 @@ R, VBA/Excel, statistiques appliquées
 
 **📊 Résultats visuels :**
 - Comparaison des taux observés et extrapolés  
-  ![Taux observés vs extrapolés](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Simulation%20Monte%20Carlo.png)
+  ![Taux observés vs extrapolés](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Taux%20vs%20Simulation.png)
 
 - Simulation Monte Carlo  
   ![Simulation Monte Carlo](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Simulation%20Monte%20Carlo.png)
 
 - Illustration du retour à la moyenne  
-  ![Retour à la moyenne](Courbe Simulation.png)
+  ![Retour à la moyenne](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Courbe%20Simulation.png)
 
 **📈 Conclusion :**
 Le modèle de Vasicek respecte la tendance générale des taux observés mais lisse les variations extrêmes.  
@@ -44,4 +44,4 @@ Il est simple et robuste mais présente des limites face aux pics de volatilité
 
 📫 **Contact :**
 - LinkedIn : [Votre profil LinkedIn](https://linkedin.com)
-- Email : votre.email@example.com
+- Email : makemissaouedraos@gmail.com
