@@ -21,13 +21,13 @@ R, VBA/Excel, statistiques appliquées
 
 **📊 Résultats visuels :**
 - Comparaison des taux observés et extrapolés  
-  ![Taux observés vs extrapolés](taux_obs_vs_extrap.png)
+  ![Taux observés vs extrapolés](Taux_vs_Simulation.png)
 
 - Simulation Monte Carlo  
-  ![Simulation Monte Carlo](simulation_monte_carlo.png)
+  ![Simulation Monte Carlo](Simulation_Monte_Carlo.png)
 
 - Illustration du retour à la moyenne  
-  ![Retour à la moyenne](retour_a_la_moyenne.png)
+  ![Retour à la moyenne](Courbe_Simulation.png)
 
 **📈 Conclusion :**
 Le modèle de Vasicek respecte la tendance générale des taux observés mais lisse les variations extrêmes.  
