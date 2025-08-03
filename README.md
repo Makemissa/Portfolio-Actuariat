@@ -21,10 +21,10 @@ R, VBA/Excel, statistiques appliquées
 
 **📊 Résultats visuels :**
 - Comparaison des taux observés et extrapolés  
-  ![Taux observés vs extrapolés](Taux vs Simulation.png)
+  ![Taux observés vs extrapolés](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Simulation%20Monte%20Carlo.png)
 
 - Simulation Monte Carlo  
-  ![Simulation Monte Carlo](Simulation Monte Carlo.png)
+  ![Simulation Monte Carlo](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Simulation%20Monte%20Carlo.png)
 
 - Illustration du retour à la moyenne  
   ![Retour à la moyenne](Courbe Simulation.png)
