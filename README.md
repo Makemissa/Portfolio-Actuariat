@@ -15,8 +15,8 @@ Calibration et simulation des taux courts via le modèle d’Ornstein-Uhlenbeck 
 R, VBA/Excel, statistiques appliquées
 
 **📂 Contenu :**
-- Rapport PDF : `projet_modèle_de_Vasicek_massvie_perso.pdf`
-- Données Excel : `Nouvelle_courbe_650_periodes123.xlsm`
+- Rapport PDF : ![`projet_modèle_de_Vasicek_massvie_perso.pdf`](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/projet_mod%C3%A8le_de_Vasicek_massvie%20perso.pdf)
+- Données Excel : ![`Nouvelle_courbe_650_periodes123.xlsm`](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Nouvelle%20courbe%20650%20pA%CC%83%C2%A9riodes123.xlsm)
 - Code R et VBA inclus dans le rapport
 
 **📊 Résultats visuels :**
@@ -35,7 +35,7 @@ Il est simple et robuste mais présente des limites face aux pics de volatilité
 
 ---
 
-## 📌 Prochaines étapes
+## 📌 Projet 2 : Prediction avec Python
 - Ajout d’autres projets en assurance-vie, prévoyance, et big data
 - Visualisations interactives avec Shiny et Python Plotly
 - Analyse comparative avec d'autres modèles stochastiques (CIR, multifactoriels)
