@@ -94,9 +94,9 @@ Réalisé en **Python**, ce projet suit une approche complète de Data Science :
 ---
 
 ## 📷 Visualisations
-- Importance des variables :  
-  ![Feature Importance](feature_importance.png)
-- Prédictions vs Observations :  
+
+  ![Feature Importance](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Screenshot%202025-07-08%20182955.png)
+  
   ![Predictions vs Observations](pred_vs_obs.png)
 
 ---
