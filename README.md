@@ -36,11 +36,72 @@ Il est simple et robuste mais présente des limites face aux pics de volatilité
 ---
 
 ## 📌 Projet 2 : Prediction avec Python
-- Ajout d’autres projets en assurance-vie, prévoyance, et big data
-- Visualisations interactives avec Shiny et Python Plotly
-- Analyse comparative avec d'autres modèles stochastiques (CIR, multifactoriels)
+
+# 🚗 Prédiction des prix de voitures – Projet Data Science
+
+Ce projet vise à prédire le prix de vente de voitures d'occasion à partir de leurs caractéristiques techniques et commerciales (marque, année, kilométrage, etc.).
+
+Réalisé en **Python**, ce projet suit une approche complète de Data Science : nettoyage des données, analyse exploratoire, modélisation et évaluation.
+
+# 🎯 Objectifs
+- Nettoyer et préparer un jeu de données brutes issues de GitHub.
+- Analyser les relations entre variables explicatives et prix.
+- Entraîner et comparer plusieurs modèles de régression.
+- Évaluer les performances avec RMSE et R².
+
+# 📂 Données
+- **Source** : [Dataset GitHub](lien_vers_dataset)
+- **Taille** : ... lignes × ... colonnes
+- **Variables principales** :
+  - `make` : marque
+  - `model` : modèle
+  - `year` : année
+  - `mileage` : kilométrage
+  - `price` : prix (cible à prédire)
+  - `engine volume`, `doors`, `airbags`, etc.
 
 ---
+
+# 🛠 Méthodologie
+1. **Nettoyage des données**
+   - Conversion des variables au bon type (ex. `Levy`, `Mileage`)
+   - Correction des formats incohérents (`Doors`, `Engine volume`)
+   - Gestion des valeurs manquantes et suppression des outliers
+2. **Analyse exploratoire**
+   - Statistiques descriptives
+   - Détection d'asymétries (skewness) et transformation éventuelle
+   - Visualisations (corrélations, distributions)
+3. **Modélisation**
+   - Régression Linéaire
+   - Lasso Regression
+   - Ridge Regression
+   - KNN Regressor
+4. **Évaluation**
+   - Validation croisée
+   - Calcul de RMSE et R² sur jeu de test
+
+---
+
+## 📊 Résultats
+
+| Modèle              | R² (CV) | R² (Test) | RMSE (CV) | RMSE (Test) |
+|---------------------|---------|-----------|-----------|-------------|
+| Régression Linéaire | ...     | ...       | ...       | ...         |
+| Lasso               | ...     | ...       | ...       | ...         |
+| Ridge               | ...     | ...       | ...       | ...         |
+| KNN                 | ...     | ...       | ...       | ...         |
+
+---
+
+## 📷 Visualisations
+- Importance des variables :  
+  ![Feature Importance](feature_importance.png)
+- Prédictions vs Observations :  
+  ![Predictions vs Observations](pred_vs_obs.png)
+
+---
+
+
 
 📫 **Contact :**
 - LinkedIn : [Votre profil LinkedIn](https://linkedin.com)
