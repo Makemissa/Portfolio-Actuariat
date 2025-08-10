@@ -50,7 +50,7 @@ Réalisé en **Python**, ce projet suit une approche complète de Data Science :
 - Évaluer les performances avec RMSE et R².
 
 # 📂 Données
-- **Source** : [Dataset GitHub](lien_vers_dataset)
+- **Source** : [Data](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/car_price_prediction.csv)
 - **Taille** : ... lignes × ... colonnes
 - **Variables principales** :
   - `make` : marque
@@ -95,9 +95,9 @@ Réalisé en **Python**, ce projet suit une approche complète de Data Science :
 
 ## 📷 Visualisations
 
-  ![Feature Importance](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Screenshot%202025-07-08%20182955.png)
+  ![Importance des variables](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Screenshot%202025-07-08%20182955.png)
   
-  ![Predictions vs Observations](pred_vs_obs.png)
+  ![Importance des variables](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Screenshot%202025-07-09%20112608.png)
 
 ---
 
