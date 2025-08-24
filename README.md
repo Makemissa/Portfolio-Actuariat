@@ -37,7 +37,7 @@ Il est simple et robuste mais présente des limites face aux pics de volatilité
 
 ## 📌 Projet 2 : Prediction avec Python
 
-   # 🚗 Prédiction des prix de voitures – Projet Data Science 
+   ** 🚗 Prédiction des prix de voitures – Projet Data Science: **
 
 Ce projet vise à prédire le prix de vente de voitures d'occasion à partir de leurs caractéristiques techniques et commerciales (marque, année, kilométrage, etc.).
 
@@ -60,7 +60,7 @@ Réalisé en **Python**, ce projet suit une approche complète de Data Science :
   - `price` : prix (cible à prédire)
   - `engine volume`, `doors`, `airbags`, etc.
 
----
+
 
   # 🛠 Méthodologie
 1. **Nettoyage des données**
@@ -80,7 +80,6 @@ Réalisé en **Python**, ce projet suit une approche complète de Data Science :
    - Validation croisée
    - Calcul de RMSE et R² sur jeu de test
 
----
 
   # 📷 Visualisations
 
