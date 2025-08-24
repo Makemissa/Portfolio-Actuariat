@@ -37,19 +37,19 @@ Il est simple et robuste mais présente des limites face aux pics de volatilité
 
 ## 📌 Projet 2 : Prediction avec Python
 
-   ** 🚗 Prédiction des prix de voitures – Projet Data Science: **
+  **🚗 Prédiction des prix de voitures – Projet Data Science** 
 
 Ce projet vise à prédire le prix de vente de voitures d'occasion à partir de leurs caractéristiques techniques et commerciales (marque, année, kilométrage, etc.).
 
 Réalisé en **Python**, ce projet suit une approche complète de Data Science : nettoyage des données, analyse exploratoire, modélisation et évaluation.
 
-  # 🎯 Objectifs
+  **🎯 Objectifs**
 - Nettoyer et préparer un jeu de données brutes issues de GitHub.
 - Analyser les relations entre variables explicatives et prix.
 - Entraîner et comparer plusieurs modèles de régression.
 - Évaluer les performances avec RMSE et R².
 
-  # 📂 Données
+  **📂 Données**
 - **Source** : [Data](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/car_price_prediction.csv)
 - **Taille** : 19237 lignes × 18 colonnes
 - **Variables principales** :
@@ -62,26 +62,26 @@ Réalisé en **Python**, ce projet suit une approche complète de Data Science :
 
 
 
-  # 🛠 Méthodologie
-1. **Nettoyage des données**
-   - Conversion des variables au bon type (ex. `Levy`, `Mileage`)
-   - Correction des formats incohérents (`Doors`, `Engine volume`)
-   - Gestion des valeurs manquantes et suppression des outliers
-2. **Analyse exploratoire**
-   - Statistiques descriptives
-   - Détection d'asymétries (skewness) et transformation éventuelle
-   - Visualisations (corrélations, distributions)
-3. **Modélisation**
-   - Régression Linéaire
-   - Lasso Regression
-   - Ridge Regression
-   - KNN Regressor
-4. **Évaluation**
-   - Validation croisée
-   - Calcul de RMSE et R² sur jeu de test
+  **🛠 Méthodologie**
+    1. **Nettoyage des données**
+     - Conversion des variables au bon type (ex. `Levy`, `Mileage`)
+     - Correction des formats incohérents (`Doors`, `Engine volume`)
+     - Gestion des valeurs manquantes et suppression des outliers
+    2. **Analyse exploratoire**
+     - Statistiques descriptives
+     - Détection d'asymétries (skewness) et transformation éventuelle
+     - Visualisations (corrélations, distributions)
+    3. **Modélisation**
+     - Régression Linéaire
+     - Lasso Regression
+     - Ridge Regression
+     - KNN Regressor
+    4. **Évaluation**
+     - Validation croisée
+     - Calcul de RMSE et R² sur jeu de test
 
 
-  # 📷 Visualisations
+  **📷 Visualisations**
 
   ![Importance des variables](https://github.com/Makemissa/Portfolio-Actuariat/blob/main/Screenshot%202025-07-08%20182955.png)
   
