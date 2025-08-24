@@ -73,9 +73,8 @@ Réalisé en **Python**, ce projet suit une approche complète de Data Science :
      - Visualisations (corrélations, distributions)
     3. **Modélisation**
      - Régression Linéaire
-     - Lasso Regression
-     - Ridge Regression
-     - KNN Regressor
+     - Régression Lasso 
+     - Régression Ridge
     4. **Évaluation**
      - Validation croisée
      - Calcul de RMSE et R² sur jeu de test
