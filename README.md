@@ -91,5 +91,5 @@ Réalisé en **Python**, ce projet suit une approche complète de Data Science :
 
 
 📫 **Contact :**
-- LinkedIn : [Votre profil LinkedIn](https://linkedin.com)
+- LinkedIn : [Votre profil LinkedIn](www.linkedin.com/in/makemissa-ouedraogo-19m69m)
 - Email : makemissaouedraos@gmail.com
